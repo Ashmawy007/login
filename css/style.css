@@ -78,7 +78,7 @@ form .one-row::placeholder{
     --fb-bg-color:#3B5998;
     --gmail-icn-color:#F14336;
     /* --w-in-inp:60px; */
-    --transition:all 2s ease;
+    --transition:all 400ms ease;
     --w-one-row:353px;
     --w-two-row:170px;
 
